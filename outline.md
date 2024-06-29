@@ -6,7 +6,7 @@
 * Introduction to Stacks
 * LIFO Principle
 * Common Operations (Push, Pop, Peek)
-* Use Cases
+* Use Cases.
 * Efficiency of common operations
 * Example Problem
 * Problem to Solve
